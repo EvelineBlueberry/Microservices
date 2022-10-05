@@ -7,5 +7,6 @@ get localhost:9191/books/{id книжечки},
 post localhost:9191/users/ (жсончик с полями firstName, lastName, email и bookId),
 get localhost:9191/users/{id юзера} || 
 проблемы:
-не работает хистрикс дэшбоард
+не работает хистрикс дэшбоард,
+не работает зипкин,
 не работают фолбек методы
